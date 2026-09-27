@@ -1,2 +1,5 @@
-# simple-discord-bot
-a bot with /ping only
+# Simple Discord Bot
+- configure stuff in .env
+-  npm install discord.js dotenv
+- node index.js
+- bam new bot
